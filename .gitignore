@@ -15,7 +15,7 @@ downloads/
 eggs/
 .eggs/
 lib/
-lib64/
+lib32/
 parts/
 sdist/
 var/
@@ -84,7 +84,7 @@ celerybeat-schedule
 # Environments
 .env
 .venv
-env/
+envv/
 venv/
 ENV/
 env.bak/
